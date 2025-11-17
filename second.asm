@@ -22,5 +22,4 @@ main:
     li $v0 , 10
     syscall
 
-    li $v0 , 1123
-
+    
